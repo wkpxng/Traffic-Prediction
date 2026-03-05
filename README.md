@@ -1,2 +1,2 @@
-# Traffic-Prediction
-Predicting Hong Kong traffic with LSTM.
+# Traffic Prediction
+Datasets are obtained from DATA.GOV.HK.
