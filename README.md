@@ -1,2 +1,2 @@
 # Traffic Prediction
-Datasets are obtained from DATA.GOV.HK.
+Raw traffic data are obtained from DATA.GOV.HK every 2 minutes. From these datasets, records corresponding to a specific segment are extracted and processed using Power Query. Then, they are aggregated into 5-minute intervals.
